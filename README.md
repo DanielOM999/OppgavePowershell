@@ -30,3 +30,6 @@ A collection of PowerShell scripts for system administration tasks and automatio
 - PowerShell 7.5.0
 - Windows 10/11
 - VirtualBox (for Task 11)
+
+## 🗂️ Important Files
+📄 [PowerShell Assignment (PDF)](oppgave-powershell.pdf) 📄 [Image File List (TXT)](Bildefiler.txt)
